@@ -1,2 +1,3 @@
 # togglingColors
-Created with CodeSandbox
+Toggling colours of the screen, using basic HTML and Javascript
+
